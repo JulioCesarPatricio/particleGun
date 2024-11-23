@@ -1,0 +1,7 @@
+/home/bushido/Escritorio/Carpeta sin título/particleGun/build/CMakeFiles/install/strip.dir
+/home/bushido/Escritorio/Carpeta sin título/particleGun/build/CMakeFiles/install/local.dir
+/home/bushido/Escritorio/Carpeta sin título/particleGun/build/CMakeFiles/particleGun.dir
+/home/bushido/Escritorio/Carpeta sin título/particleGun/build/CMakeFiles/rebuild_cache.dir
+/home/bushido/Escritorio/Carpeta sin título/particleGun/build/CMakeFiles/edit_cache.dir
+/home/bushido/Escritorio/Carpeta sin título/particleGun/build/CMakeFiles/install.dir
+/home/bushido/Escritorio/Carpeta sin título/particleGun/build/CMakeFiles/list_install_components.dir

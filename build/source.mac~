@@ -1,0 +1,10 @@
+/gps/source/add 1 
+/gps/particle e- 
+/gps/ene/mono 120 keV
+/gps/pos/centre 0.0 0.0 0.0 cm 
+/gps/pos/type Volume
+/gps/pos/shape Sphere
+/gps/pos/halfx 0.1 cm
+/gps/pos/halfy 0.1 cm
+/gps/pos/halfz 0.1 cm
+/gps/ang/type iso
